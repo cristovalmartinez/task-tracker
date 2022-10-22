@@ -22,7 +22,7 @@ run npm install in the root directory to install required dependencies
 
  `npm install`
 
-### :dart: Configurations
+then run:
 
 `npm start`
 
