@@ -5,7 +5,7 @@
   <img src="https://reactjs.org/logo-og.png" width="320" alt="react-logo-task-tracker-app" />
 </div>
 
-<h1>Basic React task tracker app</h1>
+<h1>Task tracker built with React</h1>
 
 > <p>By: Cristoval M. </p>
 <br>
